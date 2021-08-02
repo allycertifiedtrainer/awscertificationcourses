@@ -8,8 +8,9 @@ A subsidiary of online shopping for Computers, Electronics, Apparel, Books, DVDs
 Cloud technology is an information technology model that provides ubiquitous access to shared pools of customizable resources and higher-level services that can be swiftly supplied with minimum administration work, frequently through the Internet.
 Cloud providers supply these computing services and generally charge for cloud computing services depending on their use.
 An array of formats are available for [AWS certifications]. 
+
 [//]: # (Any comments)
-[AWS certifications]: <https://www.netcomlearning.com/vendors/aws-training.phtml?advid=1356>
+[AWS certifications]:<https://www.netcomlearning.com/vendors/aws-training.phtml?advid=1356>
 
 There are five certificates available at both the associate and professional levels, with re-certification every two years.
 1. [Associate level AWS Certified Solutions Architect]
@@ -18,11 +19,11 @@ There are five certificates available at both the associate and professional lev
 4. [Associate AWS Certified SysOps Administrator]
 5. [Professional AWS Certified DevOps Engineer]
 [//]: # (Any comments)
-[Associate level AWS Certified Solutions Architect]: <https://www.netcomlearning.com/certification/aws-certified-solutions-architect-associate/599/?advid=1356>
-[AWS Certified Solutions Architect – Professional]: <https://www.netcomlearning.com/certification/aws-certified-solutions-architect-professional/545/?advid=1356>
-[Associate AWS Certified Developer]: <https://www.netcomlearning.com/certification/aws-certified-developer-associate/602/?advid=1356>
-[Associate AWS Certified SysOps Administrator]: <https://www.netcomlearning.com/certification/aws-certified-sysops-administrator-associate/601/?advid=1356>
-[Professional AWS Certified DevOps Engineer]: <https://www.netcomlearning.com/certification/aws-certified-devops-engineer-professional/600/?advid=1356>
+[Associate level AWS Certified Solutions Architect]:<https://www.netcomlearning.com/certification/aws-certified-solutions-architect-associate/599/?advid=1356>
+[AWS Certified Solutions Architect – Professional]:<https://www.netcomlearning.com/certification/aws-certified-solutions-architect-professional/545/?advid=1356>
+[Associate AWS Certified Developer]:<https://www.netcomlearning.com/certification/aws-certified-developer-associate/602/?advid=1356>
+[Associate AWS Certified SysOps Administrator]:<https://www.netcomlearning.com/certification/aws-certified-sysops-administrator-associate/601/?advid=1356>
+[Professional AWS Certified DevOps Engineer]:<https://www.netcomlearning.com/certification/aws-certified-devops-engineer-professional/600/?advid=1356>
 
 Why are AWS experts in high demand in India?
 The vast majority of India and worldwide are currently utilizing AWS, intending to store their information and process any tasks using AWS's information.
@@ -37,6 +38,7 @@ NDTV
 
 If you want to learn leading technologies like AWS or other [cloud computing courses], NetCom Learning stands out among other training organizations. 
 [//]: # (Any comments)
-[cloud computing courses]: <https://www.netcomlearning.com/amazon-web-services-training/vendor/104/?advid=1356>
+[cloud computing courses]:<https://www.netcomlearning.com/amazon-web-services-training/vendor/104/?advid=1356>
+
 AWS's Future
 AWS's future looks bright now that they've opened the India Data Center in Mumbai and having a broad range of skills in AWS Microservices will be highly beneficial for both experts and newcomers.
