@@ -18,6 +18,7 @@ There are five certificates available at both the associate and professional lev
 3. [Associate AWS Certified Developer]
 4. [Associate AWS Certified SysOps Administrator]
 5. [Professional AWS Certified DevOps Engineer]
+
 [//]: # (Any comments)
 [Associate level AWS Certified Solutions Architect]:<https://www.netcomlearning.com/certification/aws-certified-solutions-architect-associate/599/?advid=1356>
 [AWS Certified Solutions Architect – Professional]:<https://www.netcomlearning.com/certification/aws-certified-solutions-architect-professional/545/?advid=1356>
@@ -37,6 +38,7 @@ Tata Motors is an Indian automobile manufacturer.
 NDTV
 
 If you want to learn leading technologies like AWS or other [cloud computing courses], NetCom Learning stands out among other training organizations. 
+
 [//]: # (Any comments)
 [cloud computing courses]:<https://www.netcomlearning.com/amazon-web-services-training/vendor/104/?advid=1356>
 
